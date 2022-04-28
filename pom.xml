@@ -12,7 +12,7 @@
     <licenses>
         <license>
             <name>CC BY-NC-ND 3.0</name>
-            <url>http://creativecommons.org/licenses/by-nc-nd/3.0/</url>
+            <url>https://creativecommons.org/licenses/by-nc-nd/3.0/</url>
             <comments>Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported</comments>
         </license>
     </licenses>
@@ -54,15 +54,15 @@
         </repository>
         <repository>
             <id>dynmap-repo</id>
-            <url>http://repo.mikeprimm.com</url>
+            <url>https://repo.mikeprimm.com</url>
         </repository>
         <repository>
             <id>github-Towny</id>
-		    <url>https://maven.pkg.github.com/TownyAdvanced/Towny</url>
+		    <url>https://repo.glaremasters.me/repository/towny/</url>
         </repository>
         <repository>
             <id>placeholderapi</id>
-            <url>http://repo.extendedclip.com/content/repositories/placeholderapi/</url>
+            <url>https://repo.extendedclip.com/content/repositories/placeholderapi/</url>
         </repository>
         <repository>
             <id>jitpack.io</id>
